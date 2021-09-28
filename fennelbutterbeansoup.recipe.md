@@ -22,7 +22,7 @@ Sweat the fennel and onion in olive oil with a pinch of salt for 10 minutes, the
 
 Blitz with a stick blender until smooth. Taste and season with salt and pepper.
 
-To sevre, sprinkle over the reselved fennel fronds and a drizzle of olive oil.
+To serve, sprinkle over the reselved fennel fronds and a drizzle of olive oil.
 
 ### Metadata
 
