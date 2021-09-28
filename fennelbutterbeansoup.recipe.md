@@ -1,4 +1,4 @@
-# Fennel and Butterbean Soup
+# Fennel and Butter Bean Soup
 
 ![Fennel and Butterbean Soup](fennel-and-butterbean-soup.jpg)
 
