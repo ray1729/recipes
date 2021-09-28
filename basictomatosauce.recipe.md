@@ -5,8 +5,8 @@
  * 1 pieces onion, cut into 1/4-inch di
  * 4 cloves garlic, thinly sliced
  * 4 teaspoons Fresh thyme leaves
- * 0.5 medium carrot, finely shredded
- * 2 pieces 400g cans of chopped tomatoes
+ * 0.5 pieces medium carrot, finely shredded
+ * 2 pieces 400g can chopped tomatoes
  * salt
 
 ### Directions

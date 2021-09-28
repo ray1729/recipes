@@ -4,10 +4,10 @@
 
 ### Ingredients
 
- * 1 fennel bulb
- * 1 onion
- * 400 g tin butter beans
- * 500 ml vegetable stock
+ * 1 pieces fennel bulb
+ * 1 pieces onion
+ * 1 pieces 400g can butter beans
+ * 500 millilitres vegetable stock
  * salt
  * pepper
  * olive oil

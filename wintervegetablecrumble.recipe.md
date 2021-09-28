@@ -14,7 +14,7 @@ Recipe yields 4 servings
  * 25 grams butter
  * 1 pieces onion, finely chopped
  * 15 grams plain flour
- * 4 large tomatoes, peeled and chopped
+ * 4 pieces tomatoes, peeled and chopped
  * 1 pieces 400g cans of chopped tomatoes
  * 200 grams black-eye beans, cooked
  * 200 grams butter beans, cooked
