@@ -18,5 +18,5 @@ Divide into 80g portions.  Cook about 5 minutes in hot oven,  serve with toasted
 
 ### Meta
 
-tags: Kingham Plough, Snacks and supper dishes
+tags: Kingham Plough, Snacks and Supper Dishes
 

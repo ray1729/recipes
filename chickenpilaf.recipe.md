@@ -47,6 +47,6 @@ Serve with the butter drizzled over and a lemon wedge.
 
 ## Metadata
 
-tags: Saturday Kitchen, Main Course
+tags: Saturday Kitchen, Main Dishes
 
 author: adapted from a recipe by Georgina Hayden

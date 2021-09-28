@@ -26,7 +26,7 @@ To serve, sprinkle over the reserved fennel fronds and a drizzle of olive oil.
 
 ### Metadata
 
-tags: soup
+tags: Soups
 
 author: Ray Miller
 
