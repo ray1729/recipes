@@ -7,7 +7,7 @@ A savoury bake that can be served hot or cold.
 ### Ingredients
 
  * 100 g buckwheat
- * 150 g red lentils
+ * 175 g red lentils
  * 2 tbsp oil
  * 1 medium onion, chopped
  * 1 medium carrot, chopped
