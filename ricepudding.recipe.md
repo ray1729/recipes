@@ -1,27 +1,23 @@
 # Rice Pudding
 
-Recipe yields 10 portions 
-
 ### Ingredients
- * 400 grams short grain rice
- * 350 milliliters milk
- * 300 milliliters double cream
- * 1 pieces vanilla pods, split
- * 150 grams sugar
- * jam
- * demerera sugar
+
+ * 75 grams short-grain pudding rice
+ * 1 litre full-cream milk
+ * 30 grams butter
+ * 2 tablespoons sugar
+ * 1 each vanilla pod, split and seeds scraped
 
 ### Directions
 
-Place rice in a pan and cover with water.  Bring to the boil, then drain.
+Pre-head the oven to 140C. 
 
-Put rice back in pan with double cream, milk, vanilla pods and sugar.  Heat gently, stirring frequently until the rice is cooked, adding more milk if necessary.
+Grease a pudding bowl with the butter. Add the other ingredients and stir. Bake in the 
+pre-heated oven for 1 hour, then stir and add more milk to loosen if needed. Bake for a further
+two hours.
 
-Put a couple of spoons of jam in the bottom of a tea cup then top up with the cooked rice.  Refrigerate until required.
+### Metadata
 
-To serve, sprinkle the top with demerara sugar and reheat in the oven for 8-10 minutes.  Caramelize with a blow torch if necessary.
+tags: Puddings and Desserts
 
-### Meta
-
-tags: Kingham Plough, Puddings and Desserts, Rice and Couscous
-
+author: Jane Grigson, "English Food"
